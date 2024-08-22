@@ -1,0 +1,1500 @@
+[
+    {
+        "id": "e3d1ed7a-4e48-4777-8c89-98488ec2319a",
+        "image": "../dataset_reorg/insoluble_ethanol_ps/ps_ethanol_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "1acd25a9-7698-4d58-a529-b4cab87b6b8b",
+        "image": "../dataset_reorg/insoluble_ethanol_ps/ethanol_ps_con10_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "6ce64dd7-846e-470a-a7a6-d8fa11101a06",
+        "image": "../dataset_reorg/insoluble_ethanol_ps/ps_ethanol_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "132d91d0-9f47-4634-af50-17365878fd6c",
+        "image": "../dataset_reorg/insoluble_ethanol_ps/ps_ethanol_con0.5_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "e38a1730-f606-4010-a475-ef9f8d5f0895",
+        "image": "../dataset_reorg/insoluble_ethanol_ps/ethanol_ps_con5_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "2e2c4609-50b5-493b-b945-132be65c4f78",
+        "image": "../dataset_reorg/colloidal_etoac_pmma/pmma_etoac_con1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETOAC, PMMA forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "5a0b823f-8e63-42bf-be8d-665dce367bf8",
+        "image": "../dataset_reorg/insoluble_ethanol_acetonitrile_ps/ethanol_acetonitrile_ps_con10_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of ACETONITRILE is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "cc8e2627-a371-4fb2-9603-a40bed23801c",
+        "image": "../dataset_reorg/insoluble_ethanol_acetonitrile_ps/ethanol_acetonitrile_ps_con5_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of ACETONITRILE is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "36dca6fd-ac06-4022-955f-65d606dc4df1",
+        "image": "../dataset_reorg/soluble_acetone_peg600/peg600(1)_acetone_con0.3_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "08d0a1f1-7249-4461-a0e8-54c56ce92d16",
+        "image": "../dataset_reorg/soluble_acetone_peg600/peg600_acetone_con0.7_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "07f651b3-cbfc-4125-a442-a9e85579fbd3",
+        "image": "../dataset_reorg/soluble_acetone_peg600/peg600_acetone_con0.5_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "f1d97bca-ec84-4adc-b09f-041a88ae88bc",
+        "image": "../dataset_reorg/soluble_acetone_peg600/peg600_acetone_con1_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "b3396a48-4c53-4569-8fce-d0ede4a93da0",
+        "image": "../dataset_reorg/soluble_acetone_peg600/peg600_acetone_con0.1_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "c91a8563-6ad1-4a48-b74b-5956ccb98956",
+        "image": "../dataset_reorg/colloidal_dmso_toleuen_acetone_pmma/dmso_toleuen_acetone_pmma_con10_loop3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DMSO, TOLEUEN forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "b7f3132f-fb78-49d0-9087-99c2f4331e58",
+        "image": "../dataset_reorg/soluble_water_pvp/pvp_water_con0.1_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PVP easily dissolves in WATER, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "6e60575a-2046-44c4-8777-4723559d9237",
+        "image": "../dataset_reorg/colloidal_dcm_peg10k/peg10k_dcm_con0.3_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PEG10K forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "71190b0d-d493-414d-902e-82e910b5f4d8",
+        "image": "../dataset_reorg/colloidal_dmso_methanol_pvp/dmso_methanol_pvp_con10_loop5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DMSO, METHANOL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "eaa4ab26-c49b-4dad-acd6-1f7972d9f731",
+        "image": "../dataset_reorg/colloidal_dmso_methanol_pvp/DMSO_Methanol_pvp_con1_loop1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DMSO, METHANOL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "25c36e1d-9430-469f-8b35-034c9fb301a6",
+        "image": "../dataset_reorg/colloidal_dmso_methanol_pvp/dmso_methanol_pvp_con10_loop6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DMSO, METHANOL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "50a52916-99a1-4788-ac6c-cbe114f03c02",
+        "image": "../dataset_reorg/partialsoluble_acetone_pvp/acetone_pvp_con5_loop5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ACETONE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "92418174-440d-46a3-910e-1dcebd595fc5",
+        "image": "../dataset_reorg/partialsoluble_acetone_pvp/acetone_pvp_con5_loop6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ACETONE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "26602246-d932-424e-a050-a46966d223eb",
+        "image": "../dataset_reorg/partialsoluble_acetone_pvp/acetone_pvp_con10_loop5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ACETONE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "bf385cb3-b72f-47cf-b3a1-9ba85d08c208",
+        "image": "../dataset_reorg/partialsoluble_acetone_pvp/Acetone_pvp_con1_loop0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ACETONE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "b4230c82-44e5-4478-992d-dcec90dcc59a",
+        "image": "../dataset_reorg/partialsoluble_acetone_pvp/Acetone_pvp_con1_loop1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ACETONE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "7031b3d2-183e-41be-a674-f8965a52b0a7",
+        "image": "../dataset_reorg/colloidal_ethanol_acetonitrile_pvp/ethanol_acetonitrile_pvp_con5_loop5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETHANOL, ACETONITRILE forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "51798b4a-58e6-4224-b8ff-f473cd6fa7d5",
+        "image": "../dataset_reorg/colloidal_ethanol_acetonitrile_pvp/ethanol_acetonitrile_pvp_con10_loop6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETHANOL, ACETONITRILE forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "b4c0cac6-a828-4e2e-9a51-6f0423124aeb",
+        "image": "../dataset_reorg/colloidal_ethanol_acetonitrile_pvp/ethanol_acetonitrile_pvp_con10_loop5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETHANOL, ACETONITRILE forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "3fad28e9-6a01-4639-a9c7-17702e4ed4c5",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/DCM_pvp_con1_loop0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "19444896-af16-42e8-965d-62a7896bace6",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/dcm_pvp_con5_loop6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "a83d6cce-ba42-4cc1-acc8-36ab3de9d7a6",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/dcm_pvp_con1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "0644e808-fdfd-4d30-be75-ea5709ba63e4",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/dcm_pvp_con5_loop5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "1274fcb5-07e9-4d2e-ae2a-eff37766eaf8",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/pvp_dcm_con1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "e82625f0-4e36-4bbb-94ee-af2f1b1c45f1",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/dcm_pvp_con1_colloidal_20h.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "094e525c-e465-4ae6-a9c7-84c1a819ac6b",
+        "image": "../dataset_reorg/colloidal_dcm_pvp/pvp_dcm_con0.3_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "7f672e10-9f62-4b38-9eac-a8dac11eb638",
+        "image": "../dataset_reorg/insoluble_ipa_ps/ps_ipa_con0.3_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "5bfcc585-ce4f-44cb-8e85-1592083cf5ff",
+        "image": "../dataset_reorg/insoluble_ipa_ps/ps_ipa_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "08bd7e53-1b00-4f45-8d4f-81d0055a5db8",
+        "image": "../dataset_reorg/soluble_etoac_pmma/pmma_etoac_con0.7_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PMMA easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "6734a315-eedf-47a4-b5fb-ad5617549377",
+        "image": "../dataset_reorg/soluble_etoac_pmma/pmma_etoac_con0.1_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PMMA easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "f66fb821-8362-4c55-9ebe-7e2f5a18d58b",
+        "image": "../dataset_reorg/insoluble_DCM_pva/pva_dcm_con0.3_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "68d69002-9d8f-4708-97e0-617f962db08c",
+        "image": "../dataset_reorg/insoluble_DCM_pva/pva_dcm_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "0df339bf-2f39-40b0-a2ff-743ed5b90d8d",
+        "image": "../dataset_reorg/insoluble_DCM_pva/DCM_pva_con1_loop0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "06d44e70-3d5a-44bd-bac4-c505b00432a6",
+        "image": "../dataset_reorg/insoluble_DCM_pva/pva_dcm_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "e2235538-5a75-45a2-b253-f4a71e818014",
+        "image": "../dataset_reorg/insoluble_DCM_pva/DCM_pva_con1_loop1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "46f81234-edd0-4a87-8b21-d8cc903d3847",
+        "image": "../dataset_reorg/insoluble_DCM_pva/pva_dcm_con0.5_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "cd7e86a0-9cd7-42ce-82e1-569831863b32",
+        "image": "../dataset_reorg/partialsoluble_dmso_toluene_acetone_pva/DMSO_Toluene_Acetone_pva_con1_loop1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "TOLUENE is partially soluble in DMSO, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "da1692d8-1b74-43e6-b10e-c7bd0c7cce45",
+        "image": "../dataset_reorg/partialsoluble_dmso_toluene_acetone_pva/DMSO_Toluene_Acetone_pva_con1_loop0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "TOLUENE is partially soluble in DMSO, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "c6710ef5-73cb-42f4-9e8a-0f0427012bfe",
+        "image": "../dataset_reorg/partialsoluble_methanol_pmma/methanol_pmma_con1_insoluble_20h.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PMMA is partially soluble in METHANOL, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "f95b28d4-af7c-48e8-92f3-c37aee8a3e88",
+        "image": "../dataset_reorg/partialsoluble_methanol_pmma/methanol_pmma_con1_insoluble_20h_lens.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PMMA is partially soluble in METHANOL, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "8cd17dbf-9ae0-41d4-b214-f9137c1e65af",
+        "image": "../dataset_reorg/partialsoluble_isopropylacetate_pcl/isopropylacetate_pcl_con10_loop2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PCL is partially soluble in ISOPROPYLACETATE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "2ad944e6-e960-42f0-9306-687cbb22c2d3",
+        "image": "../dataset_reorg/colloidal_acetone_peg600/peg600_acetone_con0.3_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETONE, PEG600 forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "565c9fa0-5a17-424d-b490-68ff0137a241",
+        "image": "../dataset_reorg/colloidal_acetonitrile_pcl/acetonitrile_pcl_con1_colloidal_20h_lens.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETONITRILE, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "bad7bcbf-7981-44db-98b7-80b07d4a3aad",
+        "image": "../dataset_reorg/colloidal_acetonitrile_pcl/acetonitrile_pcl_con5_loop2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETONITRILE, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "7dc5de46-293e-4d7d-a55c-7f75dde971e4",
+        "image": "../dataset_reorg/colloidal_acetonitrile_pcl/acetonitrile_pcl_con1_colloidal_20h.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETONITRILE, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "9f3b3491-b92f-40f4-9a6c-48ae22f82a34",
+        "image": "../dataset_reorg/colloidal_acetonitrile_pcl/acetonitrile_pcl_con1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETONITRILE, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "15681ebb-f06a-46c9-aeca-675f25d4b2c7",
+        "image": "../dataset_reorg/colloidal_chloroform_ps/chloroform_ps_con5_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In CHLOROFORM, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "db6c521d-70e2-4dab-b3aa-6d967ad7808c",
+        "image": "../dataset_reorg/insoluble_etoac_pva/pva_etoac_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in ETOAC, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "167caef5-b78f-4597-abf1-69144d44df89",
+        "image": "../dataset_reorg/insoluble_etoac_pva/pva_etoac_con0.5_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in ETOAC, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "ea35762c-1dd6-4936-9872-9a165be6f3e7",
+        "image": "../dataset_reorg/insoluble_etoac_pva/pva_etoac_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in ETOAC, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "e6377495-d145-4ace-8620-97ca55d709fa",
+        "image": "../dataset_reorg/insoluble_etoac_pva/pva_etoac_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in ETOAC, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "6d6b091f-8a66-4fe2-b0fb-176be6626c4b",
+        "image": "../dataset_reorg/partialsoluble_ethylacetate_pvp/ethylacetate_pvp_con1_insoluble_20h_lens.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ETHYLACETATE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "371d4847-dfb0-49f5-bf22-5ff3ede43888",
+        "image": "../dataset_reorg/partialsoluble_ethylacetate_pvp/ethylacetate_pvp_con1_insoluble_20h.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PVP is partially soluble in ETHYLACETATE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "a5a8a81e-e419-41d3-87f0-4579fecfbd7c",
+        "image": "../dataset_reorg/insoluble_acetone_ps4ss/ps4ss_acetone_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS4SS is insoluble in ACETONE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "c1927b9e-c5fb-45f8-bf1a-b6cd3f0d92de",
+        "image": "../dataset_reorg/insoluble_acetone_ps4ss/ps4ss_acetone_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS4SS is insoluble in ACETONE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "3aae68d3-f1fa-4984-9342-ccb668a8be9f",
+        "image": "../dataset_reorg/insoluble_acetone_ps4ss/ps4ss_acetone_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS4SS is insoluble in ACETONE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "2ec78223-e691-4aaa-a872-7dfe63d6ac57",
+        "image": "../dataset_reorg/partialsoluble_heptane_ps4ss/ps4ss_heptane_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PS4SS is partially soluble in HEPTANE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "6a2a1ba5-c018-4f5a-98ac-f23acb4ef875",
+        "image": "../dataset_reorg/colloidal_aceton_pdms/pdms_acetone_con0.5_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETON, PDMS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "6e7f9604-c5d8-4d7b-a8e0-73b8cd727dba",
+        "image": "../dataset_reorg/colloidal_aceton_pdms/pdms_acetone_con1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETON, PDMS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "af0fd309-e8c2-4c20-bcfb-f0ba2a6ceb61",
+        "image": "../dataset_reorg/colloidal_aceton_pdms/pdms_acetone_con0.1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETON, PDMS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "b0e4739c-9bcc-4c33-b90d-aa1513c6d94d",
+        "image": "../dataset_reorg/colloidal_aceton_pdms/pdms_acetone_con0.3_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ACETON, PDMS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "8c10f3f2-3e48-487b-8980-d187c4b3f376",
+        "image": "../dataset_reorg/colloidal_choloroform_pmma/choloroform_pmma_con10_loop3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In CHOLOROFORM, PMMA forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "a3d15648-fc80-4f5a-a9a3-d9bf5956dc40",
+        "image": "../dataset_reorg/partialsoluble_heptane_pcl/heptane_pcl_con1_insoluble_20h.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PCL is partially soluble in HEPTANE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "e500da1d-3fc6-4e39-b48d-86f5d5b5b886",
+        "image": "../dataset_reorg/soluble_ethanol_pdms/pdms_ethanol_con0.1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PDMS easily dissolves in ETHANOL, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "1be024df-5409-4168-8db4-84af1e385f45",
+        "image": "../dataset_reorg/partialsoluble_diethylether_pmma/diethylether_pmma_con1_insoluble_20h.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PMMA is partially soluble in DIETHYLETHER, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "ce57f863-32c6-456c-8a96-91a63f3e8f71",
+        "image": "../dataset_reorg/insoluble_water_pdms/pdms_water_con0.3_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PDMS is insoluble in WATER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "230d9251-7f33-4e28-bd97-787b197f8ab4",
+        "image": "../dataset_reorg/insoluble_water_pdms/pdms_water_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PDMS is insoluble in WATER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "455b77e3-6d77-4ffe-8457-048787a8db41",
+        "image": "../dataset_reorg/insoluble_water_pdms/pdms_water_con0.5_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PDMS is insoluble in WATER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "d5dcad2a-edbe-4ac2-abe4-cfdb99323c1f",
+        "image": "../dataset_reorg/insoluble_water_pdms/pdms_water_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PDMS is insoluble in WATER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "2d3485e7-030b-4e84-a5ac-6615855298c6",
+        "image": "../dataset_reorg/insoluble_water_pdms/pdms_water_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PDMS is insoluble in WATER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "087d23d1-f2b1-4a57-9f2b-c79e8d9cb450",
+        "image": "../dataset_reorg/insoluble_butylbenzoate_pcl/butylbenzoate_pcl_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PCL is insoluble in BUTYLBENZOATE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "53d96c92-ea12-4803-8663-c6fad0e99a5a",
+        "image": "../dataset_reorg/soluble_etoac_peg600/peg600_etoac_con0.5_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "345561d4-0b99-43ef-abf4-2a824f676c42",
+        "image": "../dataset_reorg/soluble_etoac_peg600/peg600_etoac_con0.7_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "0a4a8596-50d6-4ee7-aa03-adc27d4bfb3e",
+        "image": "../dataset_reorg/soluble_etoac_peg600/peg600_etoac_con0.3_soluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PEG600 easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "9c0e8ff5-5676-47da-9c91-ed371fa9da8a",
+        "image": "../dataset_reorg/insoluble_dietheylether_pva/Diethylethylether_pva_con1_loop0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DIETHEYLETHER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "4dd6b4f6-7c9a-46cb-b572-49b6baab2bb7",
+        "image": "../dataset_reorg/insoluble_dietheylether_pva/Diethylethylether_pva_con1_loop1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in DIETHEYLETHER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "c8412b10-af79-4ef2-9e5b-5596b3d8ae3a",
+        "image": "../dataset_reorg/soluble_acetone_pcl/acetone_20h_lens.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PCL easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "4d8006d8-1923-4385-88bc-75b20cd9d41a",
+        "image": "../dataset_reorg/soluble_acetone_pcl/pcl_acetone_con0.3_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "This sample of PCL easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "c05970f0-3b07-48c4-b124-1fb57b6444ef",
+        "image": "../dataset_reorg/insoluble_methanol_ps/methanol_ps_con5_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in METHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "eea543a7-428a-4bf5-ab4e-35755d9eecd9",
+        "image": "../dataset_reorg/insoluble_methanol_ps/methanol_ps_con10_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in METHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "48e4e34c-67c4-4336-a88b-f4add7ec20ca",
+        "image": "../dataset_reorg/colloidal_dioxolane_ps/13dioxolane_ps_con5_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In DIOXOLANE, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "9ea557f0-caa5-4f50-bfc7-6aa9e7b591e4",
+        "image": "../dataset_reorg/insoluble_ethyleneglycol_ps/ethyleneglycol_ps_con10_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS is insoluble in ETHYLENEGLYCOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "8d4cb044-8419-4118-bed0-385f079d6a1b",
+        "image": "../dataset_reorg/insoluble_thf_peg10k/peg10k_thf_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PEG10K is insoluble in THF, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "03196b8f-22ff-41dc-b149-c66f5289f69d",
+        "image": "../dataset_reorg/insoluble_thf_peg10k/peg10k_thf_con0.3_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PEG10K is insoluble in THF, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "aeb79d4e-05c6-4f6e-a74c-2f0aaffed8c8",
+        "image": "../dataset_reorg/insoluble_thf_peg10k/peg10k_thf_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PEG10K is insoluble in THF, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "30e7cd39-2fd5-4ded-a92e-ab37f928d501",
+        "image": "../dataset_reorg/insoluble_thf_peg10k/peg10k_thf_con0.5_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PEG10K is insoluble in THF, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "a44c6d9a-b7c6-4b1d-a0ae-a178bd76cb9d",
+        "image": "../dataset_reorg/insoluble_thf_peg10k/peg10k_thf_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PEG10K is insoluble in THF, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "3da53558-1fac-4108-80b1-fa853b0dad8f",
+        "image": "../dataset_reorg/insoluble_ipa_ps4ss/ps4ss_ipa_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS4SS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "e7f8bb75-7d1d-45d6-89c1-b85ee1ad1a02",
+        "image": "../dataset_reorg/insoluble_ipa_ps4ss/ps4ss_ipa_con0.5_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS4SS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "5e5259f8-d3d2-4b7a-a4c0-974c19b91f95",
+        "image": "../dataset_reorg/insoluble_ipa_ps4ss/ps4ss_ipa_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PS4SS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "1106a803-96db-456b-8e40-75d70ccda61e",
+        "image": "../dataset_reorg/colloidal_chloroform_pcl/chloroform_pcl_con5_loop2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In CHLOROFORM, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "45be738d-0e2a-49ae-abcd-3e99118491ca",
+        "image": "../dataset_reorg/insoluble_toluene_pva/pva_toluene_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in TOLUENE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "e4e9fa48-80e8-4b37-ac57-4e076c9a7b9f",
+        "image": "../dataset_reorg/insoluble_toluene_pva/pva_toluene_con0.1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "The sample of PVA is insoluble in TOLUENE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            }
+        ]
+    },
+    {
+        "id": "e97e5a1c-5876-4875-b763-25c56a9c7b8b",
+        "image": "../dataset_reorg/partialsoluble_dmso_acetone_ps/dmso_acetone_ps_con10_loop4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "ACETONE is partially soluble in DMSO, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "7964e868-90e8-4437-9aeb-dc47f2d29c16",
+        "image": "../dataset_reorg/colloidal_etoac_ps/ps_etoac_con0.3_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETOAC, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "3cba5ed3-307c-4df6-b125-a97bcaf5460f",
+        "image": "../dataset_reorg/colloidal_etoac_ps/ps_etoac_con0.5_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETOAC, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "5eda4aae-b70e-48d3-8170-2b6d58758b44",
+        "image": "../dataset_reorg/colloidal_etoac_ps/ps_etoac_con1_colloidal.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "In ETOAC, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "0ea22183-c641-49cb-9e1f-deb97e0b53b4",
+        "image": "../dataset_reorg/partialsoluble_ipa_ps/ps_ipa_con1_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PS is partially soluble in IPA, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    },
+    {
+        "id": "189c47bf-0e01-440a-8cb5-e7c5eedce175",
+        "image": "../dataset_reorg/partialsoluble_ipa_ps/ps_ipa_con0.7_insoluble.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the soluble properties of \n<image>\n."
+            },
+            {
+                "from": "gpt",
+                "value": "PS is partially soluble in IPA, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            }
+        ]
+    }
+]

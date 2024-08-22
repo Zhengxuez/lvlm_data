@@ -1,0 +1,1102 @@
+[
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_ethanol_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PS is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_etoac_pmma"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In ETOAC, PMMA forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_ethanol_acetonitrile_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of ACETONITRILE is insoluble in ETHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/soluble_acetone_peg600"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "This sample of PEG600 easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_dmso_toleuen_acetone_pmma"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In DMSO, TOLEUEN forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/soluble_water_pvp"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "This sample of PVP easily dissolves in WATER, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_dcm_peg10k"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In DCM, PEG10K forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_dmso_methanol_pvp"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In DMSO, METHANOL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_acetone_pvp"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PVP is partially soluble in ACETONE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_ethanol_acetonitrile_pvp"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In ETHANOL, ACETONITRILE forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_dcm_pvp"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In DCM, PVP forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_ipa_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/soluble_etoac_pmma"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "This sample of PMMA easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_DCM_pva"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PVA is insoluble in DCM, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_dmso_toluene_acetone_pva"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "TOLUENE is partially soluble in DMSO, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_methanol_pmma"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PMMA is partially soluble in METHANOL, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_isopropylacetate_pcl"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PCL is partially soluble in ISOPROPYLACETATE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_acetone_peg600"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In ACETONE, PEG600 forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_acetonitrile_pcl"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In ACETONITRILE, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_chloroform_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In CHLOROFORM, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_etoac_pva"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PVA is insoluble in ETOAC, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_ethylacetate_pvp"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PVP is partially soluble in ETHYLACETATE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_acetone_ps4ss"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PS4SS is insoluble in ACETONE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_heptane_ps4ss"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PS4SS is partially soluble in HEPTANE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_aceton_pdms"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In ACETON, PDMS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_choloroform_pmma"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In CHOLOROFORM, PMMA forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_heptane_pcl"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PCL is partially soluble in HEPTANE, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/soluble_ethanol_pdms"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "This sample of PDMS easily dissolves in ETHANOL, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_diethylether_pmma"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PMMA is partially soluble in DIETHYLETHER, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_water_pdms"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PDMS is insoluble in WATER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_butylbenzoate_pcl"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PCL is insoluble in BUTYLBENZOATE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/soluble_etoac_peg600"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "This sample of PEG600 easily dissolves in ETOAC, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_dietheylether_pva"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PVA is insoluble in DIETHEYLETHER, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/soluble_acetone_pcl"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "This sample of PCL easily dissolves in ACETONE, forming a homogenous solution. Overall, it presents soluble, as there is no visible insoluble particle, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_methanol_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PS is insoluble in METHANOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_dioxolane_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In DIOXOLANE, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_ethyleneglycol_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PS is insoluble in ETHYLENEGLYCOL, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_thf_peg10k"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PEG10K is insoluble in THF, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_ipa_ps4ss"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PS4SS is insoluble in IPA, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_chloroform_pcl"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In CHLOROFORM, PCL forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/insoluble_toluene_pva"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "The sample of PVA is insoluble in TOLUENE, presenting a rigid structure with no dissolution. Overall, it presents insoluble, as there is visible insoluble particles, and reflection area of the laser is not obvious/sparse."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_dmso_acetone_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "ACETONE is partially soluble in DMSO, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/colloidal_etoac_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "In ETOAC, PS forms a colloidal mixture, creating a suspension of fine particles. Overall, it presents colloidal, as there is no visible insoluble particle, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ],
+    [
+        {
+            "question_type": "eval_object_property_description",
+            "question_steps": 1
+        },
+        {
+            "role": "USER",
+            "content": [
+                "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n\n",
+                "Describe the soluble properties of <tact_start>",
+                "<img_tokens>",
+                "<tact_end>."
+            ],
+            "image_data": [
+                "../dataset_reorg/partialsoluble_ipa_ps"
+            ]
+        },
+        {
+            "role": "ASSISTANT",
+            "content": [
+                "PS is partially soluble in IPA, showing partial integration with the solvent. Overall, it presents partialsoluble, as there is visible insoluble particles, and reflection area of the laser is bright and obvious/dense."
+            ],
+            "image_data": []
+        }
+    ]
+]
